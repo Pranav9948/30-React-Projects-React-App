@@ -1,0 +1,57 @@
+.tempCntrl{
+
+
+    width: 500px;
+    height: 500px;
+    background-color:white;
+    border: 5px solid white;
+    box-shadow: 10px;
+    margin: 150px auto;
+    position: relative;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+.tempBtn{
+
+width: 200px;
+height: 200px;
+border-radius: 50%;
+background-color: rgb(14, 203, 93);
+position: absolute;
+left: 150px;
+top :60px;
+font-size: 35px;
+color: white;
+
+
+}
+
+.countBtn{
+
+    background-color: black;
+    height: 50px;
+    width: 70px;
+    margin-right: 30px;
+    color: white;
+    position: relative;
+    top: 340px;
+    left: 170px;
+    font-size: 20px;
+    
+
+}
+
+.IncrecolorChange{
+
+    background-color: red !important;
+}
+
+.nuetralcolorChange{
+
+     background-color: rgb(0, 255, 42) !important;
+}
+.DecrecolorChange {
+
+    background-color: aqua;
+}

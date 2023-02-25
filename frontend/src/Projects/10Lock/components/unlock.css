@@ -1,0 +1,45 @@
+.cards{
+
+    width: 300px;
+    height: 540px;
+    background-color: rgb(25, 25, 25);
+    position: relative;
+    box-shadow: 10;
+    margin: 50px auto;
+}
+
+.cards img{
+
+    width: 300px;
+    height: 540px;
+    position: absolute;
+    top: 0;
+}
+
+.cards h1{
+
+    position: absolute;
+    text-align: center;
+    top: 50px;
+    font-size: 55px;
+    color: white;
+}
+
+
+.cards i{
+
+     position: absolute;
+    text-align: center;
+    top: 430px;
+    font-size: 55px;
+    color: white;
+    left:120px
+}
+
+.hex{
+
+    position: absolute;
+    bottom: 40px;
+    left: 0;
+    
+}
